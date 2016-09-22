@@ -4,6 +4,7 @@
  nosqljson.jar,db2jcc_license_cu.jar, db2jcc4.jar need to be present in /locallib dir.
  Instances of below services need to be created in the space where the will be deployed and the corresponding name should be updated in the manifest.yml file
   
+  - conversation service
   - dashDB
   - retrieve-and-rank-service
 
